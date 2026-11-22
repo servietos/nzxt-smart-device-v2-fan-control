@@ -4,6 +4,8 @@ A small Windows tray app that controls the fans of an **NZXT Smart Device V2** (
 
 Kleine Windows-App für den Infobereich, die die Lüfter eines NZXT Smart Device V2 ohne NZXT CAM regelt. Die Oberfläche gibt es auf Deutsch und Englisch.
 
+![NzxtFan main window: fan tiles and curve editor](docs/screenshot.png)
+
 > Not affiliated with NZXT. Tested on exactly one PC (firmware 1.12.0, three fans). Use at your own risk.
 
 ## Features
